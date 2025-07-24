@@ -1,0 +1,20 @@
+{
+  "path": "c:\\Users\\adken\\CodeBuddy\\20250724t143449",
+  "desc": "天气预报网站，已修复地理定位功能，增强错误处理和用户提示，支持HTTPS环境下的位置获取，包含详细的权限和错误说明",
+  "id": "384bf2d0155b4cbca19f0c0bb32a6900",
+  "data": {
+    "spaceKey": "384bf2d0155b4cbca19f0c0bb32a6900",
+    "connections": {
+      "webIDE": "https://384bf2d0155b4cbca19f0c0bb32a6900.ap-singapore.cloudstudio.club",
+      "preview": "https://384bf2d0155b4cbca19f0c0bb32a6900--{port}.ap-singapore.cloudstudio.club",
+      "api": "https://384bf2d0155b4cbca19f0c0bb32a6900--api.ap-singapore.cloudstudio.club",
+      "pty": "https://384bf2d0155b4cbca19f0c0bb32a6900--pty.ap-singapore.cloudstudio.club"
+    }
+  },
+  "config": {
+    "api": "https://384bf2d0155b4cbca19f0c0bb32a6900--api.ap-singapore.cloudstudio.club",
+    "pty": "https://384bf2d0155b4cbca19f0c0bb32a6900--pty.ap-singapore.cloudstudio.club",
+    "region": "ap-shanghai",
+    "spaceKey": "384bf2d0155b4cbca19f0c0bb32a6900"
+  }
+}
