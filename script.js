@@ -1,5 +1,5 @@
 // OpenWeatherMap API配置
-const API_KEY = 'YOUR_API_KEY_HERE'; // 请替换为您的API密钥
+const API_KEY = '70c58f0e6abec252b5fc34b17ded94aa'; // 请替换为您的API密钥
 const API_BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 // API密钥验证状态

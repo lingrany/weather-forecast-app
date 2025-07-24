@@ -1,6 +1,9 @@
 # 天气预报网站
 
 一个现代化的实时天气预报网站，支持全球城市天气查询和当前位置天气获取。
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
 
 ## 功能特点
 
